@@ -68,7 +68,7 @@ manual_users:
     firstName: OpenShift
     lastName: Administrator
     password: RedHatAdmin1
-    email: realmadmin@example.com
+    email: openshiftadmin@example.com
     admin: yes
     realmRoles:
       - "offline_access"
